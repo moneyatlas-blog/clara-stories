@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moneyatlas-blog.github.io/clara-stories/sitemap.xml
